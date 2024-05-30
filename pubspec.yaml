@@ -1,0 +1,31 @@
+name: your_app_name
+description: A new Flutter project.
+
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.12.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  syncfusion_flutter_calendar: ^20.1.54
+  image_picker: ^0.8.4+4
+
+  cupertino_icons: ^1.0.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  
+
+flutter:
+
+  uses-material-design: true
+
+  assets:
+    - assets/background.png
+    - assets/background2.png
+    - assets/pp.jpeg
