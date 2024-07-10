@@ -1,3 +1,4 @@
-# flutter_application_1
+Application .dart files can be found in the lib folder
+assets folder contains the images used 
 
-A new Flutter project.
+pubspec.yaml has the flutter configuration
